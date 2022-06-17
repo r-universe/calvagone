@@ -1,0 +1,10 @@
+[
+  {
+    "package": "campsis",
+    "oncran": true
+  },
+  {
+    "package": "campsismod",
+    "oncran": true
+  }
+]
