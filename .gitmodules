@@ -8,3 +8,6 @@
 [submodule "campsismod"]
 	path = campsismod
 	url = https://github.com/calvagone/campsismod
+[submodule "campsisnca"]
+	path = campsisnca
+	url = https://github.com/calvagone/campsisnca
